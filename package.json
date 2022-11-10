@@ -105,7 +105,7 @@
     "classnames": "^2.2.3",
     "css-modules-require-hook": "^4.0.0",
     "dynamics.js": "^0.0.9",
-    "electron-debug": "^0.6.0",
+    "electron-debug": "^0.7.0",
     "electron-log": "^1.0.17",
     "font-awesome": "^4.6.1",
     "immutable": "^3.7.6",
