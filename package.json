@@ -130,7 +130,7 @@
     "redux": "^3.4.0",
     "redux-thunk": "^2.0.1",
     "source-map-support": "^0.4.0",
-    "underscore-db": "^0.9.1",
+    "underscore-db": "^0.12.2",
     "url-loader": "^0.5.7",
     "uuid": "^2.0.1"
   },
