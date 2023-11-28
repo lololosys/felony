@@ -114,7 +114,7 @@
     "lodash": "^3.10.1",
     "lowdb": "^0.12.4",
     "merge": "^1.2.0",
-    "node-notifier": "^4.6.0",
+    "node-notifier": "^5.0.0",
     "normalize.css": "^3.0.3",
     "open": "0.0.5",
     "openpgp": "^2.2.1",
